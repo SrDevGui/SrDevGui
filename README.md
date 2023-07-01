@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SrDevGui
-- 👀 I’m interested in ... learn java
-- 🌱 I’m currently learning ... java
+- 👋 Hi, I’m Guilherme Alves
+- 👀 I’m interested in ... learn java, JS, HTML, CSS
+- 🌱 I’m currently learning ... java, JS, HTML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
