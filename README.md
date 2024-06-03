@@ -1,5 +1,5 @@
-- 👋 Olá, meu nome é Guilherme Alves, tenho 22 anos e sou estudante de Engenharia de Software. Tenho interesse em java, JavaScript, HTML, CSS
-- 🌱 No momento estou estudando JavaScript, HTML e CSS com foco em desenvolvimento web.
+- 👋 Hello, my name is Guilherme Alves, I'm 22 years old and I'm a Software Engineering student. 
+- 🌱 I have interest in JavaScript, HTML, CSS, SQL, Node, React, Python..
 -  </> 
 
 <!---
