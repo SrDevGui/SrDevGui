@@ -15,5 +15,5 @@
   <img src="./badges/a515232a-3528-49fe-bfe5-03d4ac321e36.png" alt="Python to DataScientist Basics" width="120"/>
 </a>
 <a href="./Security/Introduction_to_Cybersecurity_certificate_6d7b2ae4-e72f-477b-bf46-69e26e1f54de.pdf">
-  <img src="./badges/cisco-intro.jpeg" alt="Introdution to CyberSecurity" width="110"/>
+  <img src="./badges/cisco-intro.jpeg" alt="Introdution to CyberSecurity" width="120"/>
 </a>
