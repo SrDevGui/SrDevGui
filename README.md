@@ -2,7 +2,7 @@
   - 👋 Hello World, I'm Guilherme, I'm a Software Developer.
   - 🌱 I have interest in technologies related to programming language as Python, JavaScript SQL and C++.
   - 🌳 Interested in some libraries and frameworks such as Flask, React, Node.js..
-  - Some technologies like Docker, Linux, AWS are also in my learning range .
+  - 🌱 Some technologies like Docker, Linux, Oracle are also in my learning range .
 
 
 
@@ -16,4 +16,7 @@
 </a>
 <a href="./Security/Introduction_to_Cybersecurity_certificate_6d7b2ae4-e72f-477b-bf46-69e26e1f54de.pdf">
   <img src="./badges/cisco-intro.jpeg" alt="Introdution to CyberSecurity" width="120"/>
+</a>
+<a href="./Oracle/Oracle.pdf">
+  <img src="./badges/OCI26FNDCFA.jpg" alt="Oracle Cloud Infrastructure 2026 Certified Foundations Associate" width="120"/>
 </a>
