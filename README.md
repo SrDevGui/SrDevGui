@@ -18,5 +18,5 @@
   <img src="./badges/cisco-intro.jpeg" alt="Introdution to CyberSecurity" width="120"/>
 </a>
 <a href="./Oracle/Oracle.pdf">
-  <img src="./badges/OCI26FNDCFA2.png" alt="Oracle Cloud Infrastructure 2026 Certified Foundations Associate" width="320"/>
+  <img src="./badges/OCI26FNDCFA2.png" alt="Oracle Cloud Infrastructure 2026 Certified Foundations Associate" width="220"/>
 </a>
