@@ -20,3 +20,5 @@
 <a href="./Oracle/Oracle.pdf">
   <img src="./badges/OCI26FNDCFA2.png" alt="Oracle Cloud Infrastructure 2026 Certified Foundations Associate" width="120"/>
 </a>
+
+</>
