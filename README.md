@@ -20,10 +20,10 @@
 <a href="./Oracle/Oracle.pdf">
   <img src="./badges/OCI26FNDCFA2.png" alt="Oracle Cloud Infrastructure 2026 Certified Foundations Associate" width="120"/>
 </a>
-<a href= "./OpenAI/openai1.png">
+<a href= "https://oaiacademy.credential.net/93532fe8-b627-469d-8a11-798c9e6b7622?key=e6d2d5350f483da682cac3ca1bda9822d58828646b9340f9c427622339067a76">
   <img src="./OpenAI/openai1.png" alt="OpenAI Certificate" width="120"/> 
 </a>
-<a href= "./OpenAI/openai2.png">
+<a href= "https://oaiacademy.credential.net/2adbdd7b-f309-42ac-8aff-ce16caab6795?key=071670025ffb5a0946c374d0e728ca23ceaabb9b98854bb8775c9a044616c354">
   <img src="./OpenAI/openai2.png" alt="OpenAI Certificate" width="120"/>
 </a>
 
