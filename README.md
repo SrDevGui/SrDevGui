@@ -20,5 +20,12 @@
 <a href="./Oracle/Oracle.pdf">
   <img src="./badges/OCI26FNDCFA2.png" alt="Oracle Cloud Infrastructure 2026 Certified Foundations Associate" width="120"/>
 </a>
+<a href= "./OpenAI/openai1.png">
+  <img src="./OpenAI/openai1.png" alt="OpenAI Certificate" width="120"/> 
+</a>
+<a href= "./OpenAI/openai2.png">
+  <img src="./OpenAI/openai2.png" alt="OpenAI Certificate" width="120"/>
+</a>
+
 
 </>
