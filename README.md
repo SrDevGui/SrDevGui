@@ -1,9 +1,10 @@
 <>
-  - 👋 Hello World, I'm Guilherme, I'm a Software Developer.
+  - 👋 Hello World !
+  - 你好世界 !
+  - I'm Guilherme, I'm a Software Developer.
   - 🌱 I have interest in technologies related to programming language as Python, JavaScript SQL and C++.
   - 🌳 Interested in some libraries and frameworks such as Flask, React, Node.js..
-  - 🌱 Some technologies like Docker, Linux, Oracle are also in my learning range .
-
+  - 🌱 Some technologies like Docker, Linux, Oracle are also in my learning range.
 
 
 #### 📜 🎓 Badges
